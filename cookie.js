@@ -14,3 +14,4 @@ setInterval(() => {
     cookies += 5;
     cookieAntal.textContent = cookies;
 }, 3000);
+
